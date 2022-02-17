@@ -34,7 +34,7 @@ kubectl apply -f svc.yaml
 
 > ehtishammubarik/nginxalpine:1
 
-###Available in dockerhub repo at https://hub.docker.com/r/ehtishammubarik/nginxalpine/tags
+######Available in dockerhub repo at https://hub.docker.com/r/ehtishammubarik/nginxalpine/tags
 
 
 ## Make sure that your pod and service are both up and service is exposed at port 30012
