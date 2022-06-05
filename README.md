@@ -12,7 +12,7 @@ Create a virtualized multi node kubernetes cluster on your host machine using ki
 ```
 git clone https://github.com/ehtishammubarik/kindk8scluster
 cd kindk8scluster
-kind create cluster --config multi-node.yaml --name yotabytetest
+kind create cluster --config multi-node.yaml --name multinodecluster
 
 ```
 ## Wait for few minutes and make sure all nodes are up and read 
